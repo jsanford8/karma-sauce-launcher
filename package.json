@@ -20,7 +20,7 @@
   "author": "Vojta Jina <vojta.jina@gmail.com>",
   "dependencies": {
     "q": "^1.4.1",
-    "sauce-connect-launcher": "^0.13.0",
+    "sauce-connect-launcher": "git+https://github.com/bermi/sauce-connect-launcher.git#366fcd4",
     "saucelabs": "^1.0.1",
     "wd": "^0.3.4"
   },
